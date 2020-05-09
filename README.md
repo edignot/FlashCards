@@ -9,3 +9,12 @@ Main idea of writing this game is to practice implementing ES6 classes, writing 
 ### User Interaction : 
 ![](img/1.gif)
 
+### Learning Goals : 
+- Contribute code to an partially constructed object-oriented application
+- Follow spec/prompts to make a working application
+- Implement ES6 classes
+- Write modular, reusable code that follows SRP (Single Responsibility Principle)
+- Implement a robust testing suite using TDD
+
+### Contributors
+[Edita Ignot](https://github.com/edignot)
